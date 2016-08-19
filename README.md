@@ -1,0 +1,2 @@
+# myranger
+info browser
